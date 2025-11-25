@@ -1,4 +1,4 @@
-# Multi-Modal Biometric Authentication System
+# BioAuth: Multi-Modal Biometric Authentication System
 
 A complete end-to-end biometric authentication system with React frontend, Arduino Nano 33 BLE peripheral, and Supabase backend integration.
 
