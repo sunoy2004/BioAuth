@@ -1,4 +1,5 @@
 # BioAuth: Multi-Modal Biometric Authentication System
+[Demo](https://biometric-authentication.netlify.app/)
 
 A complete end-to-end biometric authentication system with React frontend, Arduino Nano 33 BLE peripheral, and Supabase backend integration.
 
